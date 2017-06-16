@@ -1,6 +1,6 @@
 Checkout blog post for this here: http://www.tattoocoder.com/angular-2-getting-off-the-starting-line/
 
-# ng2-startingline
+# ng2-startingline Qstarter
 Template based on https://github.com/angular/quickstart, added gulp build process.
 
 ### Prerequisites
